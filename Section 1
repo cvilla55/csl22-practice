@@ -4,7 +4,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "banner",
-        "id": "AlI0aI2rqR2S"
+        "id": "K_cZ0jZ_bz1A"
       },
       "source": [
         "> ⚠ **Do not delete or recreate the provided cells** (instructions and answer cells). Write your answers ONLY inside the provided answer cells. If a provided cell is deleted or replaced, your work in that part **may be excluded from grading**. Deleted a cell by accident? Open a FRESH copy of the template from the assignment link and paste your work into the matching answer cells, or use **File → Revision history** to restore. **Save and pin a revision at the end of each section.**"
@@ -13,7 +13,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "5tDGaPAaqR2W"
+        "id": "9Gf07hG2bz1E"
       },
       "source": [
         "# <p style=\"font-family: Arial; font-size:2.4em;color:red;\"> Contents </p>\n",
@@ -28,7 +28,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "l-bEGGAhqR2X"
+        "id": "DZ3Rl8ttbz1F"
       },
       "source": [
         "***\n",
@@ -40,7 +40,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "gRLztG01qR2X"
+        "id": "-MAzu36sbz1F"
       },
       "source": [
         "### Run all the blow code cells and see the results (click the cell and press \"ctrl-enter\" to run it)"
@@ -49,7 +49,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "GtekciCuqR2Y"
+        "id": "WDurZrV7bz1G"
       },
       "source": [
         "#### **Problem #1.0**\n",
@@ -62,11 +62,11 @@
       "cell_type": "code",
       "execution_count": 1,
       "metadata": {
+        "id": "mdyoKkAlbz1G",
+        "outputId": "7fac6e50-ea43-406d-b477-7618f74d8108",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "TBvCH8LjqR2Y",
-        "outputId": "b3ee96c6-f7c6-4a7d-86a8-4912888c8427"
+        }
       },
       "outputs": [
         {
@@ -88,11 +88,11 @@
       "cell_type": "code",
       "execution_count": 2,
       "metadata": {
+        "id": "_gmHxo8Gbz1I",
+        "outputId": "7f9d308e-6d15-47b0-ff1a-0045c53865f7",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "N33qEgCiqR2a",
-        "outputId": "89809d0d-f91c-4d0c-cdfb-7cb3a6d1b7dc"
+        }
       },
       "outputs": [
         {
@@ -114,11 +114,11 @@
       "cell_type": "code",
       "execution_count": 3,
       "metadata": {
+        "id": "r1YUVI6dbz1J",
+        "outputId": "7763ffe7-a8e2-479e-c538-cde9a921aa3b",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "TQqb6QfoqR2a",
-        "outputId": "7b790a1a-6b8f-4e68-f514-d2566106cb41"
+        }
       },
       "outputs": [
         {
@@ -140,11 +140,11 @@
       "cell_type": "code",
       "execution_count": 4,
       "metadata": {
+        "id": "P2FOZ5q-bz1K",
+        "outputId": "b6ad4c6a-43ff-49f7-ff0c-f53a59d7e719",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "FXanCfiIqR2b",
-        "outputId": "9780d496-7815-4f68-d189-22c93f072530"
+        }
       },
       "outputs": [
         {
@@ -166,11 +166,11 @@
       "cell_type": "code",
       "execution_count": 5,
       "metadata": {
+        "id": "pkTvkFdfbz1K",
+        "outputId": "70fe1e0b-ad44-4327-8b38-a5b0fc992390",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "aVNhkfUGqR2b",
-        "outputId": "fa5a4f41-034c-46dd-a2ef-3227b9abd509"
+        }
       },
       "outputs": [
         {
@@ -192,11 +192,11 @@
       "cell_type": "code",
       "execution_count": 6,
       "metadata": {
+        "id": "46vOgDmUbz1K",
+        "outputId": "093afe69-4f37-49be-f67f-36cb0f001593",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "UJrvu9tnqR2c",
-        "outputId": "8a5562be-9581-44ba-f318-3a3c3c9ce7e3"
+        }
       },
       "outputs": [
         {
@@ -218,11 +218,11 @@
       "cell_type": "code",
       "execution_count": 7,
       "metadata": {
+        "id": "bSnAc1J4bz1L",
+        "outputId": "4d95c530-2fd3-450a-8d62-2d4986fc002e",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "umJFLe4BqR2c",
-        "outputId": "b176c83f-2ab3-42a3-91fc-5cf45b19284c"
+        }
       },
       "outputs": [
         {
@@ -244,11 +244,11 @@
       "cell_type": "code",
       "execution_count": 8,
       "metadata": {
+        "id": "C_DU2CPebz1L",
+        "outputId": "0151b6ae-9499-4ba7-b43a-470a9e058d4d",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "bIOmcEAFqR2c",
-        "outputId": "f3d26d5b-783b-4960-94ca-cc0f823ae2b1"
+        }
       },
       "outputs": [
         {
@@ -270,11 +270,11 @@
       "cell_type": "code",
       "execution_count": 9,
       "metadata": {
+        "id": "AqZ-vmWYbz1L",
+        "outputId": "dec7e59a-345a-4e53-c3e2-2ec6fa4645f3",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "HtsWIaL2qR2d",
-        "outputId": "b1d1fa80-e39e-45e9-b825-72b3c222caa6"
+        }
       },
       "outputs": [
         {
@@ -296,11 +296,11 @@
       "cell_type": "code",
       "execution_count": 10,
       "metadata": {
+        "id": "y-WXPibcbz1L",
+        "outputId": "a35e8274-5827-4d96-902a-983654f993c9",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "6oD5cIy4qR2d",
-        "outputId": "4c90203b-cf6f-42e8-c6c9-1bb7e588bba5"
+        }
       },
       "outputs": [
         {
@@ -322,7 +322,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P1.1",
-        "id": "gIgJ1t0JqR2d"
+        "id": "GKYLyv0Ibz1L"
       },
       "source": [
         "<!-- @anchor:P1.1 type=code -->\n",
@@ -340,11 +340,11 @@
       "execution_count": 11,
       "metadata": {
         "grade_id": "P1.1-answer",
+        "id": "1QoMfEjTbz1M",
+        "outputId": "88655f6f-3294-420e-8afd-0ac07aea9c4d",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "7ANfhteTqR2d",
-        "outputId": "2621f32b-93b7-483c-af5c-efd9f984cb19"
+        }
       },
       "outputs": [
         {
@@ -368,7 +368,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P1.1p",
-        "id": "mZ65fUsWqR2e"
+        "id": "C61Lbti4bz1M"
       },
       "source": [
         "<!-- @anchor:P1.1p type=code -->\n",
@@ -398,11 +398,11 @@
       ],
       "metadata": {
         "grade_id": "P1.1p-answer",
+        "id": "zb-zGEh_bz1M",
+        "outputId": "e66b2596-8d50-4641-9b1c-98c61cc23dc5",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "jEAbV4sUqR2e",
-        "outputId": "07d1ec1f-c5a3-4413-c67c-f57eec46ba03"
+        }
       },
       "source": [
         "# @answer:P1.1p\n",
@@ -414,7 +414,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P1.2",
-        "id": "CzB38saGqR2e"
+        "id": "mNh6Ar25bz1M"
       },
       "source": [
         "<!-- @anchor:P1.2 type=code -->\n",
@@ -432,11 +432,11 @@
       "execution_count": 13,
       "metadata": {
         "grade_id": "P1.2-answer",
+        "id": "WhiYJm0tbz1M",
+        "outputId": "79fca5f8-dccb-4187-a49b-16c8f0808d3d",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "uPSYpy44qR2e",
-        "outputId": "caed7103-5718-464f-fcbb-0a45029b2e40"
+        }
       },
       "outputs": [
         {
@@ -460,7 +460,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P1.2p",
-        "id": "4mM7Pr72qR2e"
+        "id": "3Jo5B4uKbz1M"
       },
       "source": [
         "<!-- @anchor:P1.2p type=code -->\n",
@@ -490,11 +490,11 @@
       ],
       "metadata": {
         "grade_id": "P1.2p-answer",
+        "id": "jHXboiafbz1N",
+        "outputId": "b4eeb60c-2bcb-4710-8dbf-0686c217a545",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "kep7peS4qR2e",
-        "outputId": "ac3f1986-9a5e-40ac-920a-c74cbebc95d2"
+        }
       },
       "source": [
         "# @answer:P1.2p\n",
@@ -506,7 +506,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P1.3",
-        "id": "N2vpLvwmqR2e"
+        "id": "DY8EhSLYbz1N"
       },
       "source": [
         "<!-- @anchor:P1.3 type=code -->\n",
@@ -524,18 +524,18 @@
       "execution_count": 15,
       "metadata": {
         "grade_id": "P1.3-answer",
+        "id": "Z6liWWmtbz1N",
+        "outputId": "f69a4a14-ffe6-4b45-a6ff-6b7280d4895c",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "ZsGucRkpqR2f",
-        "outputId": "c8f30e08-d3a5-4932-a86f-20e86fb83fd1"
+        }
       },
       "outputs": [
         {
           "output_type": "execute_result",
           "data": {
             "text/plain": [
-              "20.0"
+              "5.0"
             ]
           },
           "metadata": {},
@@ -544,7 +544,7 @@
       ],
       "source": [
         "# @answer:P1.3\n",
-        "result = 100 / 5   # <-- replace 0 : write your expression here, using //\n",
+        "result = 100 / 20   # <-- replace 0 : write your expression here, using //\n",
         "result"
       ]
     },
@@ -552,7 +552,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P1.3p",
-        "id": "Ad54WdTEqR2f"
+        "id": "ulJ0sCmkbz1N"
       },
       "source": [
         "<!-- @anchor:P1.3p type=code -->\n",
@@ -582,11 +582,11 @@
       ],
       "metadata": {
         "grade_id": "P1.3p-answer",
+        "id": "1SBQYB12bz1N",
+        "outputId": "a7a8e2bb-b560-4d0e-bbdc-b78dc9fb3064",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "BRBNHlL1qR2f",
-        "outputId": "631da28c-c056-4e06-c55a-b2ae0d2ea52c"
+        }
       },
       "source": [
         "# @answer:P1.3p\n",
@@ -598,7 +598,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P1.4",
-        "id": "cvo_B50yqR2f"
+        "id": "WkKcyJqmbz1N"
       },
       "source": [
         "<!-- @anchor:P1.4 type=explain -->\n",
@@ -614,17 +614,17 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P1.4-answer",
-        "id": "FC4Ry6L9qR2f"
+        "id": "XlcVd5mtbz1N"
       },
       "source": [
         "<!-- @answer:P1.4 -->\n",
-        "*(double-click this cell and write your answer here — do not delete this cell)* / gives a decinmal (float) result because it is regular division. So 100/20 gives 5.0, while 100//20 would give 5."
+        "*(double-click this cell and write your answer here — do not delete this cell)* To get the number 5 you use the floor division operator (//) in Python which performs division and discards the fractional part to return an integer. Conversely, the standard diviion operator (/) always retuns a float (5.0) because Python defaults to this behavior to ensure precision, accommodating divisions that result in decimals."
       ]
     },
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "ZS7LRYkdqR2f"
+        "id": "4FuBx7oCbz1O"
       },
       "source": [
         "### Section 1 wrap-up"
@@ -634,7 +634,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "S1R",
-        "id": "cARMTZotqR2f"
+        "id": "a4LVPzHlbz1O"
       },
       "source": [
         "<!-- @anchor:S1R type=reflect -->\n",
@@ -648,17 +648,17 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "S1R-answer",
-        "id": "cJcMpMBwqR2g"
+        "id": "y16xmgdwbz1O"
       },
       "source": [
         "<!-- @answer:S1R -->\n",
-        "*(write your takeaway here — do not delete this cell)* The / operator made me stop and think becasue I expected 100/20 to give 5, but Python gave 5.0. I learned that / returns a float, while // returns a whole-number result."
+        "*(write your takeaway here — do not delete this cell)* I think for me the arithmetic operator I had to stop and think about for a while was the order in which the math was solved, what order would Python follow to complete the math in one single problem."
       ]
     },
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "wyB95a3-qR2g"
+        "id": "9BxONNo8bz1O"
       },
       "source": [
         "> **Save and pin a revision now** — `File` -> `Save and pin revision` — and name it **`Section 1`**. Do not delete the cells above."
@@ -667,7 +667,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "RgxIhLXLqR2g"
+        "id": "DyqUVQI4bz1O"
       },
       "source": [
         "***\n",
@@ -682,7 +682,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "v-G81dpsqR2g"
+        "id": "wntvVIBobz1O"
       },
       "source": [
         "<blockquote>\n",
@@ -695,7 +695,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "s9JIAM-tqR2g"
+        "id": "TSx30Xwvbz1O"
       },
       "outputs": [],
       "source": [
@@ -709,7 +709,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "Vd5gZjhFqR2g"
+        "id": "HiGQ-2xXbz1P"
       },
       "outputs": [],
       "source": [
@@ -720,7 +720,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "kw30bEqBqR2h"
+        "id": "6CosSujlbz1P"
       },
       "source": [
         "#### **Problem #2.0**\n",
@@ -733,7 +733,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "laPLv0AqqR2h"
+        "id": "_hv69zgpbz1P"
       },
       "outputs": [],
       "source": [
@@ -744,7 +744,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "5jpfgsheqR2i"
+        "id": "Nt02IUWdbz1R"
       },
       "outputs": [],
       "source": [
@@ -756,7 +756,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "cvLiGk7JqR2j"
+        "id": "JjcAy0Btbz1R"
       },
       "outputs": [],
       "source": [
@@ -767,7 +767,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P2.1",
-        "id": "nb57u2yqqR2j"
+        "id": "_mDoo7ofbz1R"
       },
       "source": [
         "<!-- @anchor:P2.1 type=code -->\n",
@@ -785,7 +785,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P2.1-answer",
-        "id": "Ado8PP3hqR2j"
+        "id": "HdNPL_qVbz1R"
       },
       "outputs": [],
       "source": [
@@ -798,7 +798,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P2.1p",
-        "id": "jL4p7P5TqR2j"
+        "id": "_KLnzqKCbz1R"
       },
       "source": [
         "<!-- @anchor:P2.1p type=code -->\n",
@@ -817,7 +817,7 @@
       "outputs": [],
       "metadata": {
         "grade_id": "P2.1p-answer",
-        "id": "jXo0pgmMqR2j"
+        "id": "zM0K2CTFbz1R"
       },
       "source": [
         "# @answer:P2.1p\n",
@@ -829,7 +829,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P2.2",
-        "id": "oYcY2zkVqR2k"
+        "id": "Wx-AhAX7bz1S"
       },
       "source": [
         "<!-- @anchor:P2.2 type=code -->\n",
@@ -847,7 +847,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P2.2-answer",
-        "id": "q7kElj-YqR2k"
+        "id": "JilKkf1_bz1S"
       },
       "outputs": [],
       "source": [
@@ -862,7 +862,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P2.2p",
-        "id": "GmU0hgolqR2k"
+        "id": "9R9Jmj83bz1S"
       },
       "source": [
         "<!-- @anchor:P2.2p type=code -->\n",
@@ -881,7 +881,7 @@
       "outputs": [],
       "metadata": {
         "grade_id": "P2.2p-answer",
-        "id": "P5M1n3wtqR2k"
+        "id": "oZfYvkdhbz1S"
       },
       "source": [
         "# @answer:P2.2p\n",
@@ -895,7 +895,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P2.3",
-        "id": "sI_kh7WuqR2k"
+        "id": "9AeQXpCVbz1S"
       },
       "source": [
         "<!-- @anchor:P2.3 type=code -->\n",
@@ -913,7 +913,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P2.3-answer",
-        "id": "mN4M9H3LqR2k"
+        "id": "6oBmWO8Bbz1T"
       },
       "outputs": [],
       "source": [
@@ -928,7 +928,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P2.4",
-        "id": "-0_sz4_9qR2l"
+        "id": "alkM9l4Ebz1T"
       },
       "source": [
         "<!-- @anchor:P2.4 type=code -->\n",
@@ -946,7 +946,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P2.4-answer",
-        "id": "2r_xdtDbqR2l"
+        "id": "Cmf5GXijbz1T"
       },
       "outputs": [],
       "source": [
@@ -961,7 +961,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P2.4p",
-        "id": "jORNp-hIqR2l"
+        "id": "ckFKjFxUbz1T"
       },
       "source": [
         "<!-- @anchor:P2.4p type=code -->\n",
@@ -980,7 +980,7 @@
       "outputs": [],
       "metadata": {
         "grade_id": "P2.4p-answer",
-        "id": "l0iGM711qR2l"
+        "id": "ihF8wbVKbz1T"
       },
       "source": [
         "# @answer:P2.4p\n",
@@ -991,7 +991,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P2.5",
-        "id": "sEI9qcTJqR2l"
+        "id": "cMKwU47Rbz1U"
       },
       "source": [
         "<!-- @anchor:P2.5 type=code -->\n",
@@ -1009,7 +1009,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P2.5-answer",
-        "id": "06ZCxk-pqR2m"
+        "id": "4NdcN9wdbz1U"
       },
       "outputs": [],
       "source": [
@@ -1024,7 +1024,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P2.6",
-        "id": "iHxmBDPUqR2m"
+        "id": "zvs9W9Tibz1U"
       },
       "source": [
         "<!-- @anchor:P2.6 type=code -->\n",
@@ -1042,7 +1042,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P2.6-answer",
-        "id": "ecS6znU1qR2m"
+        "id": "2HTaMGUHbz1U"
       },
       "outputs": [],
       "source": [
@@ -1057,7 +1057,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P2.6p",
-        "id": "lDSunLcVqR2m"
+        "id": "C1pMWWucbz1U"
       },
       "source": [
         "<!-- @anchor:P2.6p type=code -->\n",
@@ -1076,7 +1076,7 @@
       "outputs": [],
       "metadata": {
         "grade_id": "P2.6p-answer",
-        "id": "kXpvna5MqR2m"
+        "id": "mhyXWMzDbz1U"
       },
       "source": [
         "# @answer:P2.6p\n",
@@ -1090,7 +1090,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P2.7",
-        "id": "Z6Dt1g8RqR2n"
+        "id": "77aRWYN0bz1V"
       },
       "source": [
         "<!-- @anchor:P2.7 type=code -->\n",
@@ -1108,7 +1108,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P2.7-answer",
-        "id": "5cSe0HXiqR2n"
+        "id": "MpusATfkbz1V"
       },
       "outputs": [],
       "source": [
@@ -1124,7 +1124,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "sfUG5sfVqR2n"
+        "id": "jCYuRtykbz1V"
       },
       "source": [
         "### Section 2 wrap-up"
@@ -1134,7 +1134,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "S2R",
-        "id": "HIlCva3mqR2n"
+        "id": "hp9Wt7BJbz1V"
       },
       "source": [
         "<!-- @anchor:S2R type=reflect -->\n",
@@ -1148,7 +1148,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "S2R-answer",
-        "id": "OYtzIa5jqR2n"
+        "id": "NP4isA2Lbz1V"
       },
       "source": [
         "<!-- @answer:S2R -->\n",
@@ -1158,7 +1158,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "THKGR1SGqR2n"
+        "id": "EYYxZ3yqbz1W"
       },
       "source": [
         "> **Save and pin a revision now** — `File` -> `Save and pin revision` — and name it **`Section 2`**. Do not delete the cells above."
@@ -1167,7 +1167,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "rCS17SSdqR2o"
+        "id": "0cScJ1bkbz1W"
       },
       "source": [
         "***\n",
@@ -1178,7 +1178,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "IxgWRYKTqR2o"
+        "id": "Y6Kb85C1bz1W"
       },
       "source": [
         "### Simple Formatting Numbers\n",
@@ -1196,7 +1196,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "asjGdYIiqR2o"
+        "id": "W9zwtXgwbz1W"
       },
       "source": [
         "#### <font color='red'> **Problem #3.1** </font>\n",
@@ -1208,7 +1208,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "nEdEuRQ-qR2o"
+        "id": "6soB8c6bbz1W"
       },
       "source": [
         "### <mark style=\"background-color:green; color:white\"> formatting </mark>"
@@ -1218,7 +1218,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "RatURh6HqR2o"
+        "id": "cjB0Km4fbz1W"
       },
       "outputs": [],
       "source": [
@@ -1233,7 +1233,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "mGJYFtkrqR2o"
+        "id": "kSDu4gXYbz1X"
       },
       "outputs": [],
       "source": [
@@ -1247,7 +1247,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "WQKmmsiAqR2p"
+        "id": "f8ZKyb0lbz1X"
       },
       "outputs": [],
       "source": [
@@ -1260,7 +1260,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "imUtZKlWqR2p"
+        "id": "hwi8bf_mbz1X"
       },
       "outputs": [],
       "source": [
@@ -1272,7 +1272,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "5Xq5mWKRqR2p"
+        "id": "89Ka1357bz1X"
       },
       "source": [
         "### <mark style=\"background-color:green; color:white\"> % formatting </mark>"
@@ -1282,7 +1282,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "jjUqCBT-qR2p"
+        "id": "4tnbQetibz1X"
       },
       "outputs": [],
       "source": [
@@ -1294,7 +1294,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "U7pa6kyzqR2p"
+        "id": "3XgMw_C6bz1Y"
       },
       "outputs": [],
       "source": [
@@ -1309,7 +1309,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "GDCKfDjnqR2q"
+        "id": "EueVXEaubz1Y"
       },
       "source": [
         "#### <mark style=\"background-color:green; color:white\"> Using the String format </mark>"
@@ -1319,7 +1319,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "bjtbB7dVqR2q"
+        "id": "2SHcr29Lbz1Y"
       },
       "outputs": [],
       "source": [
@@ -1330,7 +1330,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "ZZ3eROoEqR2q"
+        "id": "NNhd3xuFbz1Y"
       },
       "outputs": [],
       "source": [
@@ -1341,7 +1341,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "1KI0t--QqR2q"
+        "id": "CUfopY9Mbz1Y"
       },
       "outputs": [],
       "source": [
@@ -1352,7 +1352,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "tIfHsG5YqR2q"
+        "id": "al5euAhvbz1Y"
       },
       "outputs": [],
       "source": [
@@ -1365,7 +1365,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "Ln3ZfhwXqR2q"
+        "id": "WZfQ5YEpbz1Z"
       },
       "outputs": [],
       "source": [
@@ -1381,7 +1381,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "lpRd54R_qR2r"
+        "id": "nkkYCioJbz1Z"
       },
       "outputs": [],
       "source": [
@@ -1396,7 +1396,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "t9Em6Nm9qR2r"
+        "id": "LaG1_qCRbz1Z"
       },
       "outputs": [],
       "source": [
@@ -1417,7 +1417,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "sAyHFACsqR2r"
+        "id": "eV0OiRwDbz1Z"
       },
       "source": [
         "## 👉✅ <mark style=\"background-color:green; color:white\"> PEP 498; f-string </mark>"
@@ -1427,7 +1427,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "ugVIXkKdqR2r"
+        "id": "lZNkbnsQbz1Z"
       },
       "outputs": [],
       "source": [
@@ -1447,7 +1447,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "dcUlCGI9qR2r"
+        "id": "mPDeKxhfbz1Z"
       },
       "source": [
         "***\n",
@@ -1458,7 +1458,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "Ke9KywoJqR2r"
+        "id": "urUtxJldbz1a"
       },
       "source": [
         "### Section 3 wrap-up"
@@ -1468,7 +1468,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "S3R",
-        "id": "NkZSYWvCqR2r"
+        "id": "sLnkF54tbz1a"
       },
       "source": [
         "<!-- @anchor:S3R type=reflect -->\n",
@@ -1482,7 +1482,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "S3R-answer",
-        "id": "GN6_cumMqR2s"
+        "id": "qUWQIHHmbz1a"
       },
       "source": [
         "<!-- @answer:S3R -->\n",
@@ -1492,7 +1492,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "k7sVpl-QqR2s"
+        "id": "fM_cj7xGbz1a"
       },
       "source": [
         "> **Save and pin a revision now** — `File` -> `Save and pin revision` — and name it **`Section 3`**. Do not delete the cells above."
@@ -1501,7 +1501,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "zxkXw0-6qR2s"
+        "id": "047XzLTtbz1a"
       },
       "source": [
         "***\n",
@@ -1516,7 +1516,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "EY7oJlq8qR2s"
+        "id": "b_5T26ndbz1a"
       },
       "source": [
         "#### **Problem #4.0**\n",
@@ -1529,7 +1529,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "7Ifq4bznqR2s"
+        "id": "fiitptzqbz1a"
       },
       "outputs": [],
       "source": [
@@ -1541,7 +1541,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "HJkdjBgiqR2s"
+        "id": "Ua8MWbLDbz1b"
       },
       "outputs": [],
       "source": [
@@ -1555,7 +1555,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "6CR5A5rnqR2t"
+        "id": "eg6UAxvTbz1b"
       },
       "outputs": [],
       "source": [
@@ -1569,7 +1569,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P4.1",
-        "id": "_PKei8hTqR2t"
+        "id": "NMO0XdHGbz1b"
       },
       "source": [
         "<!-- @anchor:P4.1 type=code -->\n",
@@ -1587,7 +1587,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P4.1-answer",
-        "id": "Gegp3gTgqR2t"
+        "id": "TlxTNRQubz1b"
       },
       "outputs": [],
       "source": [
@@ -1602,7 +1602,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P4.2",
-        "id": "aVl6bi_5qR2t"
+        "id": "0dxxrbLpbz1b"
       },
       "source": [
         "<!-- @anchor:P4.2 type=code -->\n",
@@ -1620,7 +1620,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P4.2-answer",
-        "id": "rFHQRVo9qR2t"
+        "id": "U4XKIZzabz1b"
       },
       "outputs": [],
       "source": [
@@ -1635,7 +1635,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P4.3",
-        "id": "zflQtPk-qR2u"
+        "id": "A7U7k51zbz1c"
       },
       "source": [
         "<!-- @anchor:P4.3 type=code -->\n",
@@ -1653,7 +1653,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P4.3-answer",
-        "id": "zty-YS3NqR2u"
+        "id": "weQfDpQ6bz1c"
       },
       "outputs": [],
       "source": [
@@ -1668,7 +1668,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P4.3p",
-        "id": "x1_sS80CqR2u"
+        "id": "tSNyPE2lbz1c"
       },
       "source": [
         "<!-- @anchor:P4.3p type=code -->\n",
@@ -1687,7 +1687,7 @@
       "outputs": [],
       "metadata": {
         "grade_id": "P4.3p-answer",
-        "id": "t7bRJjXSqR2u"
+        "id": "Zo0byUItbz1c"
       },
       "source": [
         "# @answer:P4.3p\n",
@@ -1698,7 +1698,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P4.4",
-        "id": "5fJqqSTCqR2u"
+        "id": "S2C9oH14bz1c"
       },
       "source": [
         "<!-- @anchor:P4.4 type=code -->\n",
@@ -1720,7 +1720,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P4.4-answer",
-        "id": "gC7WwrlBqR2v"
+        "id": "kovz2RSMbz1c"
       },
       "outputs": [],
       "source": [
@@ -1732,7 +1732,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P4.5",
-        "id": "EURI--uRqR2v"
+        "id": "TWtvSFwBbz1d"
       },
       "source": [
         "<!-- @anchor:P4.5 type=code -->\n",
@@ -1750,7 +1750,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P4.5-answer",
-        "id": "d3yN2ryfqR2v"
+        "id": "aVo5LiC9bz1d"
       },
       "outputs": [],
       "source": [
@@ -1762,7 +1762,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P4.6",
-        "id": "Y1pt0KB-qR2v"
+        "id": "7RG8qHgabz1d"
       },
       "source": [
         "<!-- @anchor:P4.6 type=code -->\n",
@@ -1784,7 +1784,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P4.6-answer",
-        "id": "J7ahHHxuqR2v"
+        "id": "woomj-fQbz1d"
       },
       "outputs": [],
       "source": [
@@ -1798,7 +1798,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "-Z_dLwotqR2w"
+        "id": "EjPlxumgbz1d"
       },
       "source": [
         "### Section 4 wrap-up"
@@ -1808,7 +1808,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "S4R",
-        "id": "dTPPwRkIqR2w"
+        "id": "QtORBr3Dbz1d"
       },
       "source": [
         "<!-- @anchor:S4R type=reflect -->\n",
@@ -1822,7 +1822,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "S4R-answer",
-        "id": "6U5h6xaAqR2w"
+        "id": "IKL_3yV5bz1e"
       },
       "source": [
         "<!-- @answer:S4R -->\n",
@@ -1832,7 +1832,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "8G_JbO52qR2w"
+        "id": "yf6cfd2Bbz1e"
       },
       "source": [
         "> **Save and pin a revision now** — `File` -> `Save and pin revision` — and name it **`Section 4`**. Do not delete the cells above."
@@ -1841,7 +1841,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "tjFCcEo0qR2w"
+        "id": "TITq5qjjbz1e"
       },
       "source": [
         "<a id=section5></a>\n",
@@ -1854,7 +1854,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "iBL98d6rqR2w"
+        "id": "gkIUErvVbz1e"
       },
       "source": [
         "#### <p style=\"font-family: Arial; font-size:1.4em; background-color: yellow; color:black;\"> Problem #5.1 </p>\n",
@@ -1866,7 +1866,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "6jm91jl6qR2x"
+        "id": "lLEF-68nbz1e"
       },
       "source": [
         "#### The string value can be accessed by <mark style=\"background-color:yellow; color:black\">index</mark>\n",
@@ -1878,7 +1878,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "-BEZJhKUqR2x"
+        "id": "uVQKVWNebz1e"
       },
       "outputs": [],
       "source": [
@@ -1898,7 +1898,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "BvrcUnWtqR2x"
+        "id": "iHnPzmoybz1f"
       },
       "source": [
         "### String Methods Examples\n"
@@ -1908,7 +1908,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "gHpIANvjqR2x"
+        "id": "hozZYpXNbz1f"
       },
       "outputs": [],
       "source": [
@@ -1932,7 +1932,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "DKGLa6xLqR2x"
+        "id": "CMZkLh9Ibz1f"
       },
       "outputs": [],
       "source": [
@@ -1947,7 +1947,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "Z1tRZ_5aqR2x"
+        "id": "3ayrFB5Jbz1f"
       },
       "source": [
         "#### strip() methods"
@@ -1957,7 +1957,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "PoZuSkYeqR2y"
+        "id": "X-7p0fBObz1f"
       },
       "outputs": [],
       "source": [
@@ -1972,7 +1972,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "B-s4PUVmqR2y"
+        "id": "iqA5Vbuybz1f"
       },
       "outputs": [],
       "source": [
@@ -1994,7 +1994,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "Y-6yConPqR2y"
+        "id": "HUhKc097bz1f"
       },
       "source": [
         "## isalnum, isalpha, isdigit, isnumeric"
@@ -2004,7 +2004,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "EATdqgFoqR2y"
+        "id": "thhhmpmFbz1g"
       },
       "outputs": [],
       "source": [
@@ -2026,7 +2026,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "MWof26aHqR2y"
+        "id": "MrRIdOnibz1g"
       },
       "outputs": [],
       "source": [
@@ -2041,7 +2041,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "9SHFzdilqR2z"
+        "id": "QjJ56ambbz1g"
       },
       "source": [
         "## split()"
@@ -2051,7 +2051,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "7gEDtpdvqR2z"
+        "id": "Bx48ZhS1bz1g"
       },
       "outputs": [],
       "source": [
@@ -2063,7 +2063,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "8AzeTHwcqR2z"
+        "id": "RfbWwVRCbz1g"
       },
       "outputs": [],
       "source": [
@@ -2075,7 +2075,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "0bNM2z27qR2z"
+        "id": "Ms5fVcBWbz1g"
       },
       "source": [
         "#### <p style=\"font-family: Arial; font-size:1.4em; background-color: yellow; color:black;\"> Problem #5.2 </p>\n",
@@ -2086,7 +2086,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "4wz6H0EXqR2z"
+        "id": "1uyTIowlbz1h"
       },
       "outputs": [],
       "source": [
@@ -2099,7 +2099,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P5.2b",
-        "id": "snQ5YunmqR2z"
+        "id": "mofDemXLbz1h"
       },
       "source": [
         "<!-- @anchor:P5.2b type=code -->\n",
@@ -2115,7 +2115,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P5.2b-answer",
-        "id": "lNKv6kg9qR2z"
+        "id": "xhc4cyMIbz1h"
       },
       "outputs": [],
       "source": [
@@ -2129,7 +2129,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P5.2c",
-        "id": "LR8zfs6YqR20"
+        "id": "ngjZ0r5gbz1h"
       },
       "source": [
         "<!-- @anchor:P5.2c type=code -->\n",
@@ -2145,7 +2145,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P5.2c-answer",
-        "id": "XMc1JYrdqR20"
+        "id": "Q9AO8HL8bz1h"
       },
       "outputs": [],
       "source": [
@@ -2158,7 +2158,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "ybOc5Ig5qR20"
+        "id": "lwDO8tbXbz1h"
       },
       "source": [
         "#### <p style=\"font-family: Arial; font-size:1.4em; background-color: yellow; color:black;\"> Problem #5.3 </p>\n",
@@ -2169,7 +2169,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "s4DLiuKJqR20"
+        "id": "EEZquEYlbz1i"
       },
       "outputs": [],
       "source": [
@@ -2182,7 +2182,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P5.3b",
-        "id": "ugTcEEktqR20"
+        "id": "Gnu8ejvzbz1i"
       },
       "source": [
         "<!-- @anchor:P5.3b type=code -->\n",
@@ -2198,7 +2198,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P5.3b-answer",
-        "id": "btWwdTEYqR20"
+        "id": "s0y8ZIi9bz1i"
       },
       "outputs": [],
       "source": [
@@ -2212,7 +2212,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P5.3c",
-        "id": "NaWIUjSsqR21"
+        "id": "s7dSUlUfbz1i"
       },
       "source": [
         "<!-- @anchor:P5.3c type=code -->\n",
@@ -2228,7 +2228,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P5.3c-answer",
-        "id": "ckZBlOmjqR21"
+        "id": "JskeP9qqbz1i"
       },
       "outputs": [],
       "source": [
@@ -2242,7 +2242,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "34KWCiIDqR21"
+        "id": "HelQf1zjbz1i"
       },
       "source": [
         "> <p> 4. Does the email ID '2myemail' start with alphabet ? </p>\n",
@@ -2253,7 +2253,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "RFkBfiY9qR21"
+        "id": "yhKjELcQbz1i"
       },
       "outputs": [],
       "source": [
@@ -2266,7 +2266,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P5.3e",
-        "id": "aF7V4WO-qR21"
+        "id": "1lsiaDs_bz1j"
       },
       "source": [
         "<!-- @anchor:P5.3e type=code -->\n",
@@ -2282,7 +2282,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P5.3e-answer",
-        "id": "bL9_slMFqR21"
+        "id": "qClHphNPbz1j"
       },
       "outputs": [],
       "source": [
@@ -2296,7 +2296,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P5.3f",
-        "id": "fIuIIDYXqR21"
+        "id": "8z7uFkpYbz1j"
       },
       "source": [
         "<!-- @anchor:P5.3f type=code -->\n",
@@ -2312,7 +2312,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P5.3f-answer",
-        "id": "1IvZVY2UqR22"
+        "id": "SyGu-C4Bbz1j"
       },
       "outputs": [],
       "source": [
@@ -2325,7 +2325,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "Ly4NBFmTqR22"
+        "id": "j71fEg3Ibz1j"
       },
       "source": [
         "#### <p style=\"font-family: Arial; font-size:1.4em; background-color: yellow; color:black;\"> Problem #5.4 </p>"
@@ -2334,7 +2334,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "gznVxbNkqR22"
+        "id": "8VsQH-ysbz1j"
       },
       "source": [
         "> <p> 1. Split this word 'Python C++ HTML PHP JAVA\" by the space\n",
@@ -2345,7 +2345,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "hzoQUjLHqR22"
+        "id": "NzHsxAkIbz1j"
       },
       "outputs": [],
       "source": [
@@ -2358,7 +2358,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P5.4b",
-        "id": "CtPeoZ-5qR22"
+        "id": "uiRDKlAzbz1k"
       },
       "source": [
         "<!-- @anchor:P5.4b type=code -->\n",
@@ -2374,7 +2374,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P5.4b-answer",
-        "id": "1dxTWSmfqR22"
+        "id": "JmUapo14bz1k"
       },
       "outputs": [],
       "source": [
@@ -2388,7 +2388,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "P5.4c",
-        "id": "jQZnajOfqR22"
+        "id": "OCAMQCP_bz1k"
       },
       "source": [
         "<!-- @anchor:P5.4c type=code -->\n",
@@ -2404,7 +2404,7 @@
       "execution_count": null,
       "metadata": {
         "grade_id": "P5.4c-answer",
-        "id": "xLXIu95MqR23"
+        "id": "QpkriBiwbz1k"
       },
       "outputs": [],
       "source": [
@@ -2420,7 +2420,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "guU7fbBzqR23"
+        "id": "TGQEHgw7bz1k"
       },
       "source": [
         "### Section 5 wrap-up"
@@ -2430,7 +2430,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "S5R",
-        "id": "8DwW4jqEqR23"
+        "id": "R7rRS3qPbz1k"
       },
       "source": [
         "<!-- @anchor:S5R type=reflect -->\n",
@@ -2444,7 +2444,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "S5R-answer",
-        "id": "0Z28Dp3-qR23"
+        "id": "Fz1xDJ8Abz1l"
       },
       "source": [
         "<!-- @answer:S5R -->\n",
@@ -2454,7 +2454,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "Fhp_V2luqR23"
+        "id": "1RnUhbaibz1l"
       },
       "source": [
         "> **Save and pin a revision now** — `File` -> `Save and pin revision` — and name it **`Section 5`**. Do not delete the cells above."
@@ -2463,7 +2463,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "zRUnu4wkqR23"
+        "id": "J8WWr6BQbz1l"
       },
       "source": [
         "## 6. Putting It Together"
@@ -2472,7 +2472,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "B6-0XqCTqR23"
+        "id": "WzxAlgYwbz1l"
       },
       "source": [
         "These last problems bring the whole chapter together. **No hints are given** — you decide which operator, function or method to use. The expected output is shown so you can check yourself.\n",
@@ -2484,7 +2484,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "D1",
-        "id": "6P9O7CIHqR23"
+        "id": "KEnNXIA7bz1l"
       },
       "source": [
         "<!-- @anchor:D1 type=code -->\n",
@@ -2507,7 +2507,7 @@
       "outputs": [],
       "metadata": {
         "grade_id": "D1-answer",
-        "id": "VVyCf9nWqR24"
+        "id": "y9F4cRXobz1l"
       },
       "source": [
         "# @answer:D1\n",
@@ -2518,7 +2518,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "D2",
-        "id": "AVY5rRFxqR24"
+        "id": "sK20K_rHbz1l"
       },
       "source": [
         "<!-- @anchor:D2 type=code -->\n",
@@ -2541,7 +2541,7 @@
       "outputs": [],
       "metadata": {
         "grade_id": "D2-answer",
-        "id": "pT0OATQIqR24"
+        "id": "V4dBrcbTbz1m"
       },
       "source": [
         "# @answer:D2\n",
@@ -2552,7 +2552,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "D3",
-        "id": "Ek5zWwF0qR24"
+        "id": "BxSkzEcebz1m"
       },
       "source": [
         "<!-- @anchor:D3 type=code -->\n",
@@ -2574,7 +2574,7 @@
       "outputs": [],
       "metadata": {
         "grade_id": "D3-answer",
-        "id": "IJIn2D0bqR24"
+        "id": "Efv748vybz1m"
       },
       "source": [
         "# @answer:D3\n",
@@ -2585,7 +2585,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "D4",
-        "id": "AuaUnrTvqR24"
+        "id": "DB2kvXN5bz1m"
       },
       "source": [
         "<!-- @anchor:D4 type=code -->\n",
@@ -2607,7 +2607,7 @@
       "outputs": [],
       "metadata": {
         "grade_id": "D4-answer",
-        "id": "YBnJi0XfqR25"
+        "id": "NQ5u-I6cbz1m"
       },
       "source": [
         "# @answer:D4\n",
@@ -2620,7 +2620,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "D5",
-        "id": "i3JRCJktqR25"
+        "id": "vpTbybtdbz1n"
       },
       "source": [
         "<!-- @anchor:D5 type=code -->\n",
@@ -2643,7 +2643,7 @@
       "outputs": [],
       "metadata": {
         "grade_id": "D5-answer",
-        "id": "kScTnQkuqR25"
+        "id": "WPsxeUtBbz1n"
       },
       "source": [
         "# @answer:D5\n",
@@ -2656,7 +2656,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "R6",
-        "id": "ECGQNDd1qR25"
+        "id": "bVVobu5Pbz1n"
       },
       "source": [
         "<!-- @anchor:R6 type=reflect -->\n",
@@ -2668,7 +2668,7 @@
       "cell_type": "markdown",
       "metadata": {
         "grade_id": "R6-answer",
-        "id": "xKhwiHbCqR25"
+        "id": "W-bQRtsPbz1n"
       },
       "source": [
         "<!-- @answer:R6 -->\n",
@@ -2678,7 +2678,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "yLML0egEqR26"
+        "id": "1v4LC8prbz1n"
       },
       "source": [
         "> **Save and pin a revision now** — `File` → `Save and pin revision` — and name it **`Section 6`**. Do not delete the cells above."
